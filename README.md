@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepikaparthiban19
+- 👋 Hi, I’m Deepika
 - 👀 I’m interested in MERN stack, UI & UX  
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me parthibandeepika6@gmail.com
